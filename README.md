@@ -4,7 +4,7 @@ A simple crackme intended for reverse engineering.
 Build & run:
 
 ```
-mkdir debug && cd debug
+mkdir build && cd build
 cmake ..
 make
 ./crackme
